@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rik0612c
 - 任何邪恶 终将绳之以法
-- 
+
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
