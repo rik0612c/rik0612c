@@ -41,7 +41,7 @@
 
 [![sony](https://img.shields.io/badge/Sony_Ericsson_Xperia_Arc-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![magic](https://img.shields.io/badge/HTC%20Magic%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![magic](https://img.shields.io/badge/HTC%20Magic-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![lgvu3](https://img.shields.io/badge/LG%20Vu3-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
