@@ -54,8 +54,8 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy Note 3 CTC](https://img.shields.io/badge/Samsang%20Galaxy%20Note%203%20CTC-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 [![Samsung Galaxy Note Edge](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 5](https://img.shields.io/badge/Samsang%20Galaxy%20Note%205-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note 8 Qualcomm](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung Galaxy Note 8 Qualcomm](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Qualcomm-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Exynos-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 
 [![HUAWEI P9](https://img.shields.io/badge/HUAWEI%20P9-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
