@@ -39,15 +39,17 @@
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P20 Pro](https://img.shields.io/badge/HUAWEI%20P20%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)<br>
 
+[![sony](https://img.shields.io/badge/Sony_Ericsson_Xperia_Arc-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![magic](https://img.shields.io/badge/HTC%20Magic%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![lgvu3](https://img.shields.io/badge/LG%20Vu3-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
-[![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
+[![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)<br>
 [![vivox5max](https://img.shields.io/badge/vivo%20X5_Max-0072b8?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![find7](https://img.shields.io/badge/OPPO%20Find%207a-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![rmx](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![rmx](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
+[![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
 [![Motorola droid](https://img.shields.io/badge/Motorola%20DROID%20Ultra-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Motorola n6](https://img.shields.io/badge/Motorola%20Nexus%206-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
