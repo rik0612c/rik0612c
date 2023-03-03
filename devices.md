@@ -1,5 +1,7 @@
 ## 📱 Devices in use
 
+[![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
+
 [![Redmi 2](https://img.shields.io/badge/Redmi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi 6](https://img.shields.io/badge/Redmi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)<br>
