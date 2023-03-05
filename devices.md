@@ -1,6 +1,7 @@
 ## 📱 Devices in use
 
-[![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)
+[![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
+[![sejie](https://img.shields.io/badge/Gree%20G0245D-00C000?style=flat-square&logo=GREE&logoColor=014099&labelColor=FFFFFF)](https://baike.baidu.com/item/%E6%A0%BC%E5%8A%9B%E6%89%8B%E6%9C%BA%C2%B7%E8%89%B2%E7%95%8C/20859651)
 
 [![Redmi 2](https://img.shields.io/badge/Redmi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi2)
 [![Redmi 6](https://img.shields.io/badge/Redmi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmi6)
