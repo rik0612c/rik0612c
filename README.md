@@ -25,3 +25,6 @@ You can click the Preview link to take a look at your changes.
 ## 📱 Devices in use
 
 [Click to see](devices.md)
+
+## 🔗 Self built ROMs download
+[![自编译ROM下载](https://img.shields.io/sourceforge/dt/matsuhana3-roms.svg)](https://sourceforge.net/projects/matsuhana3-roms/files)
