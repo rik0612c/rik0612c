@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 [![Redmi Pro](https://img.shields.io/badge/Redmi%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmipro)
 [![Redmi 6](https://img.shields.io/badge/Redmi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmi6)
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)<br>
+[![Xiaomi Mi 2S](https://img.shields.io/badge/Xiaomi%20Mi%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://p.www.xiaomi.com/zt/130406/params.html)
 [![Xiaomi Mi 3TD](https://img.shields.io/badge/Xiaomi%20Mi%203TD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi3)
 [![Xiaomi Mi PAD](https://img.shields.io/badge/Xiaomi%20Mi%20Pad-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/08311d/index.html)
 [![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
@@ -60,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy Note 3 CTC](https://img.shields.io/badge/Samsang%20Galaxy%20Note%203%20CTC-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 [![Samsung Galaxy Note Edge](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 5](https://img.shields.io/badge/Samsang%20Galaxy%20Note%205-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note FE](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20FE-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/ph/smartphones/galaxy-note/galaxy-note-fan-edition-black-64gb-sm-n935fzkdxtc/)
 [![Samsung Galaxy Note 8 Qualcomm](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Qualcomm-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Exynos-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 
