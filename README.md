@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi Note Pro](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/07311e/index.html)<br>
 [![Xiaomi Mi 4c](https://img.shields.io/badge/Xiaomi%20Mi%204c-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4c)
 [![Xiaomi Mi 6](https://img.shields.io/badge/Xiaomi%20Mi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi6)
-[![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi Mi Note 3](https://img.shields.io/badge/Xiaomi%20Mi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)
 
 [![Samsung GT-S7898](https://img.shields.io/badge/Samsang%20GT_S7898-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/GT-S7898RWACHM/)
@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy Note FE](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20FE-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/ph/smartphones/galaxy-note/galaxy-note-fan-edition-black-64gb-sm-n935fzkdxtc/)
 [![Samsung Galaxy Note 8 Qualcomm](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Qualcomm-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Exynos-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung Galaxy A30 (au)](https://img.shields.io/badge/Samsang%20Galaxy%20A30%20_au-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 
 [![HUAWEI P9](https://img.shields.io/badge/HUAWEI%20P9-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p9.html)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
@@ -86,6 +87,7 @@ You can click the Preview link to take a look at your changes.
 [![Motorola n6](https://img.shields.io/badge/Motorola%20Nexus%206-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto X Pro](https://img.shields.io/badge/Moto%20X%20Pro-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 
+[![Lenovo Vibe P1](https://img.shields.io/badge/Lenovo%20Vibe%20P1-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![ZUK Z2](https://img.shields.io/badge/ZUK%20Z2-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![Lemeng K12 Pro](https://img.shields.io/badge/Lemeng%20K12%20Pro-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)<br>
 
