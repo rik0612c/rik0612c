@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 ## 📱 Devices in use
 <details><summary>Click to see</summary>
 
-[![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
 [![Redmi Note 1S 4G](https://img.shields.io/badge/Redmi%20Note%201S%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi 2](https://img.shields.io/badge/Redmi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi2)
 [![Redmi Note 3](https://img.shields.io/badge/Redmi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
@@ -79,13 +78,16 @@ You can click the Preview link to take a look at your changes.
 [![Sony Ericsson Xperia neo V](https://img.shields.io/badge/Sony_Ericsson_Xperia_neo_V-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)
 [![Sony Xperia X Performance](https://img.shields.io/badge/Sony_Xperia_X_Performance-000000?style=flat-square&logo=sony&logoColor=ffffff)](https://www.sony.com.hk/product/electronics/buy/zh/50358755)<br>
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![z7mini](https://img.shields.io/badge/Nubia_Z7_Mini-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![N2](https://img.shields.io/badge/Nubia_N2-ff3311?style=flat-square&logo=android&logoColor=ffffff)](https://www.nubia.com/en/phones/n2/)<br>
 [![magic](https://img.shields.io/badge/HTC%20Magic-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![vu3](https://img.shields.io/badge/LG%20Vu3-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
-[![z7mini](https://img.shields.io/badge/Nubia_Z7_Mini-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![x5max](https://img.shields.io/badge/vivo%20X5_Max-0072b8?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![x5prov](https://img.shields.io/badge/vivo%20X5_ProV-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x5pro/)
 [![find7](https://img.shields.io/badge/OPPO%20Find%207a-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![a0001](https://img.shields.io/badge/OnePlus%20One-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 [![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
@@ -97,8 +99,11 @@ You can click the Preview link to take a look at your changes.
 [![ZUK Z2](https://img.shields.io/badge/ZUK%20Z2-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![Lemeng K12 Pro](https://img.shields.io/badge/Lemeng%20K12%20Pro-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)<br>
 
+[![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
 [![T3](https://img.shields.io/badge/Smartisan%20M1-e60012?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)<br>
-[![L6B](https://img.shields.io/badge/Letv%20Y1%20Pro+-e60012?style=flat-square&logo=android&logoColor=ffffff)](https://www.lemall.com/#/product/detail?id=314)<br>
+[![gigaset](https://img.shields.io/badge/Gigaset%20ME%20pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://item.gome.com.cn/9134231243-1123180320.html)<br>
+[![xgl](https://img.shields.io/badge/Xiaogelei%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+
 
 [![Legion Y7000p 2020H](https://img.shields.io/badge/LEGION%20Y7000P%202020H-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1013177.html)
 [![ASUS K550J](https://img.shields.io/badge/ASUS%20K550JK4200-00539B?style=flat-square&logo=asus&logoColor=ffffff)](https://www.asus.com/supportonly/k550jk/helpdesk_download/)<br>
