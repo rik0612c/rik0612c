@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ## 📱 Devices in use
 <details><summary>Click to see</summary>
 
-[![Redmi Note 1S 4G](https://img.shields.io/badge/Redmi%20Note%201S%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+<!--- [![Redmi Note 1S 4G](https://img.shields.io/badge/Redmi%20Note%201S%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#) --->
 [![Redmi 2](https://img.shields.io/badge/Redmi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi2)
 [![Redmi Note 3](https://img.shields.io/badge/Redmi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
 [![Redmi 3S](https://img.shields.io/badge/Redmi%203S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3s)
