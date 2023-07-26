@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)<br>
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)<br>
 
-## 📱 Devices in use
+## 📱 Android Devices in use
 <details><summary>Click to see</summary>
 
 <!--- [![Redmi Note 1S 4G](https://img.shields.io/badge/Redmi%20Note%201S%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#) --->
@@ -107,10 +107,6 @@ You can click the Preview link to take a look at your changes.
 [![gigaset](https://img.shields.io/badge/Gigaset%20ME%20pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://item.gome.com.cn/9134231243-1123180320.html)<br>
 [![xgl](https://img.shields.io/badge/Xiaogelei%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![COOLPAD](https://img.shields.io/badge/coolpad%20K2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
-
-
-[![Legion Y7000p 2020H](https://img.shields.io/badge/LEGION%20Y7000P%202020H-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1013177.html)
-[![ASUS K550J](https://img.shields.io/badge/ASUS%20K550JK4200-00539B?style=flat-square&logo=asus&logoColor=ffffff)](https://www.asus.com/supportonly/k550jk/helpdesk_download/)<br>
 </details>
 
 ## 🔗 ROMs download (SourceForge)
