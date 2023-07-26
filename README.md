@@ -79,15 +79,17 @@ You can click the Preview link to take a look at your changes.
 [![Sony Xperia X Performance](https://img.shields.io/badge/Sony_Xperia_X_Performance-000000?style=flat-square&logo=sony&logoColor=ffffff)](https://www.sony.com.hk/product/electronics/buy/zh/50358755)<br>
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z7mini](https://img.shields.io/badge/Nubia_Z7_Mini-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![N2](https://img.shields.io/badge/Nubia_N2-ff3311?style=flat-square&logo=android&logoColor=ffffff)](https://www.nubia.com/en/phones/n2/)<br>
+[![N2](https://img.shields.io/badge/Nubia_N2-ff3311?style=flat-square&logo=android&logoColor=ffffff)](https://www.nubia.com/en/phones/n2/)
+[![Z11MAXMTK](https://img.shields.io/badge/Nubia_Z11%20Max%20MTK-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![magic](https://img.shields.io/badge/HTC%20Magic-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![vu3](https://img.shields.io/badge/LG%20Vu3-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![x5max](https://img.shields.io/badge/vivo%20X5_Max-0072b8?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![x5prov](https://img.shields.io/badge/vivo%20X5_ProV-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x5pro/)
+[![x5prov](https://img.shields.io/badge/vivo%20X5_ProV-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x5pro/)<br>
 [![find7](https://img.shields.io/badge/OPPO%20Find%207a-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a0001](https://img.shields.io/badge/OnePlus%20One-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![a2001](https://img.shields.io/badge/OnePlus%202-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 [![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
@@ -101,8 +103,10 @@ You can click the Preview link to take a look at your changes.
 
 [![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
 [![T3](https://img.shields.io/badge/Smartisan%20M1-e60012?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)<br>
+[![L6B](https://img.shields.io/badge/Letv%20Y1%20Pro+-e60012?style=flat-square&logo=android&logoColor=ffffff)](https://www.lemall.com/#/product/detail?id=314)<br>
 [![gigaset](https://img.shields.io/badge/Gigaset%20ME%20pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://item.gome.com.cn/9134231243-1123180320.html)<br>
 [![xgl](https://img.shields.io/badge/Xiaogelei%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![COOLPAD](https://img.shields.io/badge/coolpad%20K2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 
 
 [![Legion Y7000p 2020H](https://img.shields.io/badge/LEGION%20Y7000P%202020H-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://item.lenovo.com.cn/product/1013177.html)
