@@ -71,7 +71,6 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy A30 (au)](https://img.shields.io/badge/Samsang%20Galaxy%20A30%20_au-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 
 [![PE-CL00](https://img.shields.io/badge/HUAWEI%20HONOR%206%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](http://sale.vmall.com/h6plus.html)
-[![HUAWEI P9](https://img.shields.io/badge/HUAWEI%20P9-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p9.html)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
 [![HUAWEI P20 Pro](https://img.shields.io/badge/HUAWEI%20P20%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p20-pro)<br>
 
@@ -102,7 +101,6 @@ You can click the Preview link to take a look at your changes.
 [![Lemeng K12 Pro](https://img.shields.io/badge/Lemeng%20K12%20Pro-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)<br>
 
 [![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
-[![T3](https://img.shields.io/badge/Smartisan%20M1-e60012?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)<br>
 [![L6B](https://img.shields.io/badge/Letv%20Y1%20Pro+-e60012?style=flat-square&logo=android&logoColor=ffffff)](https://www.lemall.com/#/product/detail?id=314)<br>
 [![gigaset](https://img.shields.io/badge/Gigaset%20ME%20pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://item.gome.com.cn/9134231243-1123180320.html)<br>
 [![xgl](https://img.shields.io/badge/Xiaogelei%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
