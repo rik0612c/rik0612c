@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi 2](https://img.shields.io/badge/Redmi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi2)
+[![Redmi Note 2](https://img.shields.io/badge/Redmi%20Note%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hk/note2/)
 [![Redmi Note 3](https://img.shields.io/badge/Redmi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
 [![Redmi 3](https://img.shields.io/badge/Redmi%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi 3S](https://img.shields.io/badge/Redmi%203S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3s)
@@ -51,7 +52,8 @@ You can click the Preview link to take a look at your changes.
 [![Samsung GT-S7898](https://img.shields.io/badge/Samsang%20GT_S7898-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/GT-S7898RWACHM/)
 [![Samsung SM-G3568V](https://img.shields.io/badge/Samsang%20SM_G3568V-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G3568HAVCHM/)
 [![Samsung Galaxy Mega 6.3](https://img.shields.io/badge/Samsang%20Galaxy%20Mega%206.3-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy ALPHA](https://img.shields.io/badge/Samsang%20Galaxy%20ALPHA-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G8508ZDSCHC/)<br>
+[![Samsung Galaxy ALPHA](https://img.shields.io/badge/Samsang%20Galaxy%20ALPHA-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G8508ZDSCHC/)
+[![Samsung Galaxy on7_6](https://img.shields.io/badge/Samsang%20Galaxy%20On7_2016-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/support/model/SM-G610KZKAKTO/)<br>
 [![Samsung Galaxy S III](https://img.shields.io/badge/Samsang%20Galaxy%20S%20III-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk/support/model/GT-I9300RWDTGY/)
 [![Samsung Galaxy S5](https://img.shields.io/badge/Samsang%20Galaxy%20S5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9008ZBACHM/)
 [![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsang%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
@@ -72,6 +74,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy A30 (au)](https://img.shields.io/badge/Samsang%20Galaxy%20A30%20_au-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 
 [![PE-CL00](https://img.shields.io/badge/HUAWEI%20HONOR%206%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](http://sale.vmall.com/h6plus.html)
+[![HUAWEI_MATE_S](https://img.shields.io/badge/HUAWEI%20Mate%20S%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/ms.html)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
 [![HUAWEI P20 Pro](https://img.shields.io/badge/HUAWEI%20P20%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p20-pro)<br>
 
@@ -113,6 +116,7 @@ You can click the Preview link to take a look at your changes.
 [![cool20](https://img.shields.io/badge/coolpad%20cool%2020-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![m3s](https://img.shields.io/badge/MEIZU%20M3s-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![mx5](https://img.shields.io/badge/MEIZU%20MX5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![k1](https://img.shields.io/badge/GOME%20K1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![odin](https://img.shields.io/badge/SMARTISAN%20U2%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguopro/#/overview)
 </details>
 
