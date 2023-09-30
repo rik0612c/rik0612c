@@ -38,8 +38,7 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 2S](https://img.shields.io/badge/Xiaomi%20Mi%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://p.www.xiaomi.com/zt/130406/params.html)
 [![Xiaomi Mi 3TD](https://img.shields.io/badge/Xiaomi%20Mi%203TD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi3)
 [![Xiaomi Mi PAD](https://img.shields.io/badge/Xiaomi%20Mi%20Pad-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/08311d/index.html)
-[![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
-[![Xiaomi Mi 4C](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
+[![Xiaomi Mi 4C](https://img.shields.io/badge/Xiaomi%20Mi%204CTC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
 [![Xiaomi Mi Note LTE](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/minote/specs)
 [![Xiaomi Mi Note Pro](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/07311e/index.html)<br>
 [![Xiaomi Mi 4c](https://img.shields.io/badge/Xiaomi%20Mi%204c-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4c)
@@ -78,6 +77,8 @@ You can click the Preview link to take a look at your changes.
 [![PE-CL00](https://img.shields.io/badge/HUAWEI%20HONOR%206%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](http://sale.vmall.com/h6plus.html)
 [![HONOR_MAGIC](https://img.shields.io/badge/HUAWEI%20HONOR%20Magic-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI_MATE_S](https://img.shields.io/badge/HUAWEI%20Mate%20S%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/ms.html)
+[![HUAWEI P7](https://img.shields.io/badge/HUAWEI%20P7-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
+[![HUAWEI P8](https://img.shields.io/badge/HUAWEI%20P8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
 [![HUAWEI P20 Pro](https://img.shields.io/badge/HUAWEI%20P20%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p20-pro)<br>
 
@@ -86,7 +87,6 @@ You can click the Preview link to take a look at your changes.
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z7mini](https://img.shields.io/badge/Nubia_Z7_Mini-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z9max](https://img.shields.io/badge/Nubia_Z9_Max-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![N2](https://img.shields.io/badge/Nubia_N2-ff3311?style=flat-square&logo=android&logoColor=ffffff)](https://www.nubia.com/en/phones/n2/)<br>
 [![magic](https://img.shields.io/badge/HTC%20Magic-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![vu3](https://img.shields.io/badge/LG%20Vu3-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
