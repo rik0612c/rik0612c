@@ -99,7 +99,6 @@ You can click the Preview link to take a look at your changes.
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 [![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
-[![Motorola droid](https://img.shields.io/badge/Motorola%20DROID%20Ultra-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Motorola n6](https://img.shields.io/badge/Motorola%20Nexus%206-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto X Pro](https://img.shields.io/badge/Moto%20X%20Pro-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto Z Play](https://img.shields.io/badge/Moto%20Z%20Play-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
