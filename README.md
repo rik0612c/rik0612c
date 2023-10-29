@@ -45,7 +45,6 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 5c](https://img.shields.io/badge/Xiaomi%20Mi%205c-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi5c)
 [![Xiaomi Mi 6](https://img.shields.io/badge/Xiaomi%20Mi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi6)
 [![Xiaomi MIX 2](https://img.shields.io/badge/Xiaomi%20MIX%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix2)
-[![Xiaomi Mi Note 3](https://img.shields.io/badge/Xiaomi%20Mi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)
 
