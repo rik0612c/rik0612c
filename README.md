@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 ## 📱 Android Phones in use
 <details><summary>Click to see</summary>
 
+[![Redmi 1 TD](https://img.shields.io/badge/Redmi%201%20CMCC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi 2](https://img.shields.io/badge/Redmi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi2)
 [![Redmi Note 3](https://img.shields.io/badge/Redmi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
@@ -38,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 3TD](https://img.shields.io/badge/Xiaomi%20Mi%203TD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi3)
 [![Xiaomi Mi PAD](https://img.shields.io/badge/Xiaomi%20Mi%20Pad-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/08311d/index.html)
 [![Xiaomi Mi 4C](https://img.shields.io/badge/Xiaomi%20Mi%204CTC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
+[![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
 [![Xiaomi Mi Note LTE](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/minote/specs)
 [![Xiaomi Mi Note Pro](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/07311e/index.html)<br>
 [![Xiaomi Mi 4c](https://img.shields.io/badge/Xiaomi%20Mi%204c-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4c)
@@ -66,6 +68,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy Note II](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20II-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 3](https://img.shields.io/badge/Samsang%20Galaxy%20Note%203-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 3 CTC](https://img.shields.io/badge/Samsang%20Galaxy%20Note%203%20CTC-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung Galaxy Note 4](https://img.shields.io/badge/Samsang%20Galaxy%20Note%204-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note Edge](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 5](https://img.shields.io/badge/Samsang%20Galaxy%20Note%205-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note FE](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20FE-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/ph/smartphones/galaxy-note/galaxy-note-fan-edition-black-64gb-sm-n935fzkdxtc/)
@@ -75,7 +78,8 @@ You can click the Preview link to take a look at your changes.
 
 [![PE-CL00](https://img.shields.io/badge/HUAWEI%20HONOR%206%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](http://sale.vmall.com/h6plus.html)
 [![HONOR_MAGIC](https://img.shields.io/badge/HUAWEI%20HONOR%20Magic-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
-[![HUAWEI_MATE_S](https://img.shields.io/badge/HUAWEI%20Mate%20S%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/ms.html)
+[![HUAWEI_MATE_7](https://img.shields.io/badge/HUAWEI%20Mate%207%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/mate7.html)
+[![HUAWEI_MATE_S](https://img.shields.io/badge/HUAWEI%20Mate%20S%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/ms.html)<br>
 [![HUAWEI P7](https://img.shields.io/badge/HUAWEI%20P7-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P8](https://img.shields.io/badge/HUAWEI%20P8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
@@ -102,6 +106,7 @@ You can click the Preview link to take a look at your changes.
 [![Moto X Pro](https://img.shields.io/badge/Moto%20X%20Pro-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto Z Play](https://img.shields.io/badge/Moto%20Z%20Play-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 
+[![Lenovo A3860](https://img.shields.io/badge/Lenovo%20A3860-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![Lenovo Vibe P1](https://img.shields.io/badge/Lenovo%20Vibe%20P1-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![ZUK Z1](https://img.shields.io/badge/ZUK%20Z1-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![ZUK Z2](https://img.shields.io/badge/ZUK%20Z2-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
@@ -110,8 +115,7 @@ You can click the Preview link to take a look at your changes.
 [![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
 [![x6](https://img.shields.io/badge/Letv%20Le%20X621-e60012?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![gigaset](https://img.shields.io/badge/Gigaset%20ME%20pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://item.gome.com.cn/9134231243-1123180320.html)<br>
-[![gionee](https://img.shields.io/badge/Gionee%20W909-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
-[![xgl](https://img.shields.io/badge/Xiaogelei%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![xgl](https://img.shields.io/badge/Xiaogelei%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.sohu.com/a/128143373_624335)<br>
 [![COOLPAD](https://img.shields.io/badge/coolpad%20K2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![cool20](https://img.shields.io/badge/coolpad%20cool%2020-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![m3s](https://img.shields.io/badge/MEIZU%20M3s-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
@@ -119,12 +123,18 @@ You can click the Preview link to take a look at your changes.
 [![PRO6](https://img.shields.io/badge/MEIZU%20PRO6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![k1](https://img.shields.io/badge/GOME%20K1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![C72](https://img.shields.io/badge/GOME%20C72-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![T1](https://img.shields.io/badge/SMARTISAN%20T1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/t1/#/overview)
+[![M1-1](https://img.shields.io/badge/SMARTISAN%20M1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)
+[![M1-2](https://img.shields.io/badge/SMARTISAN%20M1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)
 [![odin](https://img.shields.io/badge/SMARTISAN%20U2%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguopro/#/overview)<br>
 [![tosot](https://img.shields.io/badge/TOSOT%20G5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![M4](https://img.shields.io/badge/Meitu%20M4-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![M8](https://img.shields.io/badge/Meitu%20M8-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![N1MAX](https://img.shields.io/badge/CMCC%20N1%20Max-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![A6](https://img.shields.io/badge/CMCC%20A6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![nokia](https://img.shields.io/badge/NOKIA%206-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-0)<br>
+[![a2015](https://img.shields.io/badge/ZTE%20Axon%20Elite-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![c2016](https://img.shields.io/badge/ZTE%20Axon%20Max-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 </details>
 
 ## 🔗 ROMs download (SourceForge)
