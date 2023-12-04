@@ -125,7 +125,6 @@ You can click the Preview link to take a look at your changes.
 [![C72](https://img.shields.io/badge/GOME%20C72-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![T1](https://img.shields.io/badge/SMARTISAN%20T1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/t1/#/overview)
 [![M1-1](https://img.shields.io/badge/SMARTISAN%20M1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)
-[![M1-2](https://img.shields.io/badge/SMARTISAN%20M1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)
 [![odin](https://img.shields.io/badge/SMARTISAN%20U2%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguopro/#/overview)<br>
 [![tosot](https://img.shields.io/badge/TOSOT%20G5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![M4](https://img.shields.io/badge/Meitu%20M4-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
