@@ -52,30 +52,30 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)
 
-[![Samsung GT-S7898](https://img.shields.io/badge/Samsang%20GT_S7898-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/GT-S7898RWACHM/)
-[![Samsung SM-G3568V](https://img.shields.io/badge/Samsang%20SM_G3568V-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G3568HAVCHM/)
-[![Samsung Galaxy Mega 6.3](https://img.shields.io/badge/Samsang%20Galaxy%20Mega%206.3-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy ALPHA](https://img.shields.io/badge/Samsang%20Galaxy%20ALPHA-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G8508ZDSCHC/)
-[![Samsung Galaxy on7_6](https://img.shields.io/badge/Samsang%20Galaxy%20On7_2016-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/support/model/SM-G610KZKAKTO/)<br>
-[![Samsung Galaxy S III](https://img.shields.io/badge/Samsang%20Galaxy%20S%20III-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk/support/model/GT-I9300RWDTGY/)
-[![Samsung Galaxy S5](https://img.shields.io/badge/Samsang%20Galaxy%20S5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9008ZBACHM/)
-[![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsang%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
-[![Samsung Galaxy S7](https://img.shields.io/badge/Samsang%20Galaxy%20S7-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
-[![Samsung Galaxy S7 Edge](https://img.shields.io/badge/Samsang%20Galaxy%20S7%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy S8](https://img.shields.io/badge/Samsang%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa)
-[![Samsung Galaxy S9+](https://img.shields.io/badge/Samsang%20Galaxy%20S9+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/business/smartphones/galaxy-s9/)
-[![Samsung Galaxy S20 Ultra 5G](https://img.shields.io/badge/Samsang%20Galaxy%20S20%20Ultra%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9880ZAGTGY)<br>
-[![Samsung Galaxy Note](https://img.shields.io/badge/Samsang%20Galaxy%20Note-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note II](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20II-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note 3](https://img.shields.io/badge/Samsang%20Galaxy%20Note%203-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note 3 CTC](https://img.shields.io/badge/Samsang%20Galaxy%20Note%203%20CTC-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
-[![Samsung Galaxy Note 4](https://img.shields.io/badge/Samsang%20Galaxy%20Note%204-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note Edge](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note 5](https://img.shields.io/badge/Samsang%20Galaxy%20Note%205-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note FE](https://img.shields.io/badge/Samsang%20Galaxy%20Note%20FE-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/ph/smartphones/galaxy-note/galaxy-note-fan-edition-black-64gb-sm-n935fzkdxtc/)
-[![Samsung Galaxy Note 8 Qualcomm](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Qualcomm-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsang%20Galaxy%20Note%208_Exynos-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
-[![Samsung Galaxy A30 (au)](https://img.shields.io/badge/Samsang%20Galaxy%20A30%20_au-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung GT-S7898](https://img.shields.io/badge/Samsung%20GT_S7898-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/GT-S7898RWACHM/)
+[![Samsung SM-G3568V](https://img.shields.io/badge/Samsung%20SM_G3568V-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G3568HAVCHM/)
+[![Samsung Galaxy Mega 6.3](https://img.shields.io/badge/Samsung%20Galaxy%20Mega%206.3-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy ALPHA](https://img.shields.io/badge/Samsung%20Galaxy%20ALPHA-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G8508ZDSCHC/)
+[![Samsung Galaxy on7_6](https://img.shields.io/badge/Samsung%20Galaxy%20On7_2016-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/support/model/SM-G610KZKAKTO/)<br>
+[![Samsung Galaxy S III](https://img.shields.io/badge/Samsung%20Galaxy%20S%20III-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk/support/model/GT-I9300RWDTGY/)
+[![Samsung Galaxy S5](https://img.shields.io/badge/Samsung%20Galaxy%20S5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9008ZBACHM/)
+[![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
+[![Samsung Galaxy S7](https://img.shields.io/badge/Samsung%20Galaxy%20S7-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung Galaxy S7 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy S8](https://img.shields.io/badge/Samsung%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa)
+[![Samsung Galaxy S9+](https://img.shields.io/badge/Samsung%20Galaxy%20S9+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/business/smartphones/galaxy-s9/)
+[![Samsung Galaxy S20 Ultra 5G](https://img.shields.io/badge/Samsung%20Galaxy%20S20%20Ultra%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9880ZAGTGY)<br>
+[![Samsung Galaxy Note](https://img.shields.io/badge/Samsung%20Galaxy%20Note-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note II](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20II-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note 3](https://img.shields.io/badge/Samsung%20Galaxy%20Note%203-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note 3 CTC](https://img.shields.io/badge/Samsung%20Galaxy%20Note%203%20CTC-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung Galaxy Note 4](https://img.shields.io/badge/Samsung%20Galaxy%20Note%204-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note Edge](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note 5](https://img.shields.io/badge/Samsung%20Galaxy%20Note%205-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note FE](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20FE-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/ph/smartphones/galaxy-note/galaxy-note-fan-edition-black-64gb-sm-n935fzkdxtc/)
+[![Samsung Galaxy Note 8 Qualcomm](https://img.shields.io/badge/Samsung%20Galaxy%20Note%208_Qualcomm-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsung%20Galaxy%20Note%208_Exynos-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung Galaxy A30 (au)](https://img.shields.io/badge/Samsung%20Galaxy%20A30%20_au-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 
 [![PE-CL00](https://img.shields.io/badge/HUAWEI%20HONOR%206%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](http://sale.vmall.com/h6plus.html)
 [![HONOR_MAGIC](https://img.shields.io/badge/HUAWEI%20HONOR%20Magic-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
