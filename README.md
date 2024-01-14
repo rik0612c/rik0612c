@@ -108,6 +108,7 @@ You can click the Preview link to take a look at your changes.
 [![find7](https://img.shields.io/badge/OPPO%20Find%207a-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a0001](https://img.shields.io/badge/OnePlus%20One-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a2001](https://img.shields.io/badge/OnePlus%202-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![op3](https://img.shields.io/badge/OnePlus%203-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 [![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
