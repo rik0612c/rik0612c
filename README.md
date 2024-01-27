@@ -52,7 +52,8 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi MIX 2](https://img.shields.io/badge/Xiaomi%20MIX%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix2)
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi Mi 8 SE](https://img.shields.io/badge/Xiaomi%20Mi%208%20SE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi8i/specs)
-[![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)
+[![Xiaomi MIX 3](https://img.shields.io/badge/Xiaomi%20MIX%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix3)
+[![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)<br>
 
 [![Samsung GT-S7898](https://img.shields.io/badge/Samsung%20GT_S7898-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/GT-S7898RWACHM/)
 [![Samsung SM-G3568V](https://img.shields.io/badge/Samsung%20SM_G3568V-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G3568HAVCHM/)
@@ -109,6 +110,7 @@ You can click the Preview link to take a look at your changes.
 [![a0001](https://img.shields.io/badge/OnePlus%20One-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a2001](https://img.shields.io/badge/OnePlus%202-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![op3](https://img.shields.io/badge/OnePlus%203-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![op3-2](https://img.shields.io/badge/OnePlus%203-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 [![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
@@ -129,12 +131,14 @@ You can click the Preview link to take a look at your changes.
 [![COOLPAD](https://img.shields.io/badge/coolpad%20K2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![cool20](https://img.shields.io/badge/coolpad%20cool%2020-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![m3s](https://img.shields.io/badge/MEIZU%20M3s-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![mx4](https://img.shields.io/badge/MEIZU%20MX4-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![mx5](https://img.shields.io/badge/MEIZU%20MX5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![PRO6](https://img.shields.io/badge/MEIZU%20PRO6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![PRO6](https://img.shields.io/badge/MEIZU%20PRO6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![PRO6](https://img.shields.io/badge/MEIZU%20PRO6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![note8](https://img.shields.io/badge/MEIZU%20Note%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![k1](https://img.shields.io/badge/GOME%20K1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![C72](https://img.shields.io/badge/GOME%20C72-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![T1](https://img.shields.io/badge/SMARTISAN%20T1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/t1/#/overview)
-[![M1-1](https://img.shields.io/badge/SMARTISAN%20M1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/m1/#/overview)
 [![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)
 [![odin](https://img.shields.io/badge/SMARTISAN%20U2%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguopro/#/overview)<br>
 [![tosot](https://img.shields.io/badge/TOSOT%20G5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
@@ -145,6 +149,7 @@ You can click the Preview link to take a look at your changes.
 [![nokia](https://img.shields.io/badge/NOKIA%206-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-0)<br>
 [![a2015](https://img.shields.io/badge/ZTE%20Axon%20Elite-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![c2016](https://img.shields.io/badge/ZTE%20Axon%20Max-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![daling](https://img.shields.io/badge/Protruly%20Darling%20D7-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 </details>
 
 ## 🔗 ROMs download (SourceForge)
