@@ -59,7 +59,6 @@ You can click the Preview link to take a look at your changes.
 [![Samsung SM-G3568V](https://img.shields.io/badge/Samsung%20SM_G3568V-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G3568HAVCHM/)
 [![Samsung Galaxy Mega 6.3](https://img.shields.io/badge/Samsung%20Galaxy%20Mega%206.3-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy ALPHA](https://img.shields.io/badge/Samsung%20Galaxy%20ALPHA-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G8508ZDSCHC/)
-[![Samsung Galaxy on7_6](https://img.shields.io/badge/Samsung%20Galaxy%20On7_2016-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/support/model/SM-G610KZKAKTO/)<br>
 [![Samsung Galaxy S III](https://img.shields.io/badge/Samsung%20Galaxy%20S%20III-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk/support/model/GT-I9300RWDTGY/)
 [![Samsung Galaxy S5](https://img.shields.io/badge/Samsung%20Galaxy%20S5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9008ZBACHM/)
 [![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
@@ -124,7 +123,6 @@ You can click the Preview link to take a look at your changes.
 [![Lemeng K12 Pro](https://img.shields.io/badge/Lemeng%20K12%20Pro-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)<br>
 
 [![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
-[![x6](https://img.shields.io/badge/Letv%20Le%20X621-e60012?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![gigaset](https://img.shields.io/badge/Gigaset%20ME%20pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://item.gome.com.cn/9134231243-1123180320.html)<br>
 [![xgl](https://img.shields.io/badge/小格雷%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.sohu.com/a/128143373_624335)<br>
 [![xlj](https://img.shields.io/badge/小辣椒%209E(X9)-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
