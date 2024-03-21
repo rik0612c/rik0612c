@@ -99,11 +99,13 @@ You can click the Preview link to take a look at your changes.
 [![Sony Xperia X Performance](https://img.shields.io/badge/Sony_Xperia_X_Performance-000000?style=flat-square&logo=sony&logoColor=ffffff)](https://www.sony.com.hk/product/electronics/buy/zh/50358755)<br>
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z7mini](https://img.shields.io/badge/Nubia_Z7_Mini-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![z9](https://img.shields.io/badge/Nubia_Z9-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z9max](https://img.shields.io/badge/Nubia_Z9_Max-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![magic](https://img.shields.io/badge/HTC%20Magic-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![vu3](https://img.shields.io/badge/LG%20Vu3-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
+[![n5x](https://img.shields.io/badge/LG%20Nexus_5X-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![stylo](https://img.shields.io/badge/LG%20Stylo%202%20Plus-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)<br>
 [![x5max](https://img.shields.io/badge/vivo%20X5_Max-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x5max/)
 [![xplay5a](https://img.shields.io/badge/vivo%20Xplay5A-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/xplay5/)
@@ -147,7 +149,6 @@ You can click the Preview link to take a look at your changes.
 [![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)
 [![odin](https://img.shields.io/badge/SMARTISAN%20U2%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguopro/#/overview)
 [![oscar](https://img.shields.io/badge/SMARTISAN%20U3-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/u3/overview)<br>
-[![tosot](https://img.shields.io/badge/TOSOT%20G5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![M4](https://img.shields.io/badge/Meitu%20M4-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![M8](https://img.shields.io/badge/Meitu%20M8-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![N1MAX](https://img.shields.io/badge/CMCC%20N1%20Max-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
