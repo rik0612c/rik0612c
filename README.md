@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 [![Redmi 3S](https://img.shields.io/badge/Redmi%203S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3s)
 [![Redmi Pro](https://img.shields.io/badge/Redmi%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmipro)
 [![Redmi 6](https://img.shields.io/badge/Redmi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmi6)
-[![Redmi Note 4](https://img.shields.io/badge/Redmi%20Note%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote4)
 [![Redmi Note 4X](https://img.shields.io/badge/Redmi%20Note%204X-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote4x)
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)<br>
 [![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://www.xiaomi.com/mi2)
