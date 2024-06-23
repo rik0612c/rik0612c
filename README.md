@@ -67,6 +67,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy S8](https://img.shields.io/badge/Samsung%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa)
 [![Samsung Galaxy S9+](https://img.shields.io/badge/Samsung%20Galaxy%20S9+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/business/smartphones/galaxy-s9/)
 [![Samsung Galaxy S20 Ultra 5G](https://img.shields.io/badge/Samsung%20Galaxy%20S20%20Ultra%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9880ZAGTGY)<br>
+[![Samsung Galaxy S24 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20S24%20Ultra-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com.cn/smartphones/galaxy-s24-ultra)<br>
 [![Samsung Galaxy Note](https://img.shields.io/badge/Samsung%20Galaxy%20Note-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note II](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20II-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note II Duos](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20II%20Unicom-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
@@ -149,7 +150,6 @@ You can click the Preview link to take a look at your changes.
 [![oscar](https://img.shields.io/badge/SMARTISAN%20U3-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/u3/overview)<br>
 [![M8](https://img.shields.io/badge/Meitu%20M8-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![N1MAX](https://img.shields.io/badge/CMCC%20N1%20Max-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![A6](https://img.shields.io/badge/CMCC%20A6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![nokia](https://img.shields.io/badge/NOKIA%206-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-0)<br>
 [![a2015](https://img.shields.io/badge/ZTE%20Axon%20Elite-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![c2016](https://img.shields.io/badge/ZTE%20Axon%20Max-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
