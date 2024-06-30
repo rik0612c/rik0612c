@@ -72,7 +72,6 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy Note II](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20II-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note II Duos](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20II%20Unicom-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 3](https://img.shields.io/badge/Samsung%20Galaxy%20Note%203-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note 3 CTC](https://img.shields.io/badge/Samsung%20Galaxy%20Note%203%20CTC-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 [![Samsung Galaxy Note 4](https://img.shields.io/badge/Samsung%20Galaxy%20Note%204-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note Edge](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 5](https://img.shields.io/badge/Samsung%20Galaxy%20Note%205-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
