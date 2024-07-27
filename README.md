@@ -63,13 +63,12 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy S III](https://img.shields.io/badge/Samsung%20Galaxy%20S%20III-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk/support/model/GT-I9300RWDTGY/)
 [![Samsung Galaxy S5](https://img.shields.io/badge/Samsung%20Galaxy%20S5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9008ZBACHM/)
 [![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
-[![Samsung Galaxy S7](https://img.shields.io/badge/Samsung%20Galaxy%20S7-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
+[![Samsung Galaxy S7](https://img.shields.io/badge/Samsung%20Galaxy%20S7-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S7 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S8](https://img.shields.io/badge/Samsung%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa)
 [![Samsung Galaxy S9+](https://img.shields.io/badge/Samsung%20Galaxy%20S9+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/business/smartphones/galaxy-s9/)
-[![Samsung Galaxy Note9](https://img.shields.io/badge/Samsung%20Galaxy%20Note9-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
-[![Samsung Galaxy S20+](https://img.shields.io/badge/Samsung%20Galaxy%20S20+%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9860ZADTGY)<br>
-[![Samsung Galaxy S20 Ultra 5G](https://img.shields.io/badge/Samsung%20Galaxy%20S20%20Ultra%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9880ZAGTGY)<br>
+[![Samsung Galaxy S20+](https://img.shields.io/badge/Samsung%20Galaxy%20S20+%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9860ZADTGY)
+[![Samsung Galaxy S20 Ultra 5G](https://img.shields.io/badge/Samsung%20Galaxy%20S20%20Ultra%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9880ZAGTGY)
 [![Samsung Galaxy S24 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20S24%20Ultra-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com.cn/smartphones/galaxy-s24-ultra)<br>
 [![Samsung Galaxy Note](https://img.shields.io/badge/Samsung%20Galaxy%20Note-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note II](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20II-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
@@ -80,6 +79,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy Note FE](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20FE-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/ph/smartphones/galaxy-note/galaxy-note-fan-edition-black-64gb-sm-n935fzkdxtc/)
 [![Samsung Galaxy Note 8 Qualcomm](https://img.shields.io/badge/Samsung%20Galaxy%20Note%208_Qualcomm-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsung%20Galaxy%20Note%208_Exynos-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy Note9](https://img.shields.io/badge/Samsung%20Galaxy%20Note9-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note20 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20Note20%20Ultra-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-N9860ZKGTGY/)<br>
 <br>
 [![Samsung Galaxy C7 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20C7%20_Pro-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
