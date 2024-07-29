@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 [![Redmi Note 3](https://img.shields.io/badge/Redmi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
 [![Redmi 3](https://img.shields.io/badge/Redmi%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi 3S](https://img.shields.io/badge/Redmi%203S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3s)
+[![Redmi 4](https://img.shields.io/badge/Redmi%204%20(8937)-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi Pro](https://img.shields.io/badge/Redmi%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmipro)
 [![Redmi Note 4X](https://img.shields.io/badge/Redmi%20Note%204X-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote4x)
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)<br>
@@ -48,7 +49,6 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 5sP](https://img.shields.io/badge/Xiaomi%20Mi%205s%20Plus-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 5c](https://img.shields.io/badge/Xiaomi%20Mi%205c-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi5c)
 [![Xiaomi Mi 6](https://img.shields.io/badge/Xiaomi%20Mi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi6)
-[![Xiaomi MIX 2](https://img.shields.io/badge/Xiaomi%20MIX%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix2)
 [![Xiaomi MIX 2S](https://img.shields.io/badge/Xiaomi%20MIX%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi MIX 3](https://img.shields.io/badge/Xiaomi%20MIX%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix3)
