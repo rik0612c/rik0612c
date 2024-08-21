@@ -94,6 +94,7 @@ You can click the Preview link to take a look at your changes.
 [![HUAWEI P7](https://img.shields.io/badge/HUAWEI%20P7-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P8](https://img.shields.io/badge/HUAWEI%20P8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P8L](https://img.shields.io/badge/HUAWEI%20P8%20Lite-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
+[![HUAWEI P9 Plus](https://img.shields.io/badge/HUAWEI%20P9%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
 [![HUAWEI P20 Pro](https://img.shields.io/badge/HUAWEI%20P20%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p20-pro)
 [![HUAWEI nova](https://img.shields.io/badge/HUAWEI%20nova-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)<br>
@@ -145,7 +146,6 @@ You can click the Preview link to take a look at your changes.
 [![GIONEE](https://img.shields.io/badge/GIONEE%20G13pro%20MAX-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![xgl](https://img.shields.io/badge/小格雷%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.sohu.com/a/128143373_624335)<br>
 [![COOLPADmax](https://img.shields.io/badge/coolpad%20锋尚MAX-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![COOLPAD](https://img.shields.io/badge/coolpad%20K2-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![cool20](https://img.shields.io/badge/coolpad%20cool%2020-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![mx4](https://img.shields.io/badge/MEIZU%20MX4-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![mx4pro](https://img.shields.io/badge/MEIZU%20MX4%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
@@ -157,7 +157,6 @@ You can click the Preview link to take a look at your changes.
 [![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note8](https://img.shields.io/badge/MEIZU%20Note%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![k1](https://img.shields.io/badge/GOME%20K1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![C72](https://img.shields.io/badge/GOME%20C72-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![T1](https://img.shields.io/badge/SMARTISAN%20T1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/t1/#/overview)
 [![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)
 [![oscar](https://img.shields.io/badge/SMARTISAN%20U3-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/u3/overview)<br>
