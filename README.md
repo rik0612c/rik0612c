@@ -132,10 +132,10 @@ You can click the Preview link to take a look at your changes.
 [![op5](https://img.shields.io/badge/OnePlus%205-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![op5T](https://img.shields.io/badge/OnePlus%205T-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
-[![iqoo](https://img.shields.io/badge/iQOO%20Neo-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
 [![Motorola n6](https://img.shields.io/badge/Motorola%20Nexus%206-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto X Pro](https://img.shields.io/badge/Moto%20X%20Pro-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
+[![Moto X Style](https://img.shields.io/badge/Moto%20X%20Style-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto Z Play](https://img.shields.io/badge/Moto%20Z%20Play-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto M](https://img.shields.io/badge/Moto%20M-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 
@@ -171,8 +171,7 @@ You can click the Preview link to take a look at your changes.
 [![nokia5.1plus](https://img.shields.io/badge/NOKIA%20X5-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](#)
 [![nokia6](https://img.shields.io/badge/NOKIA%206-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-0)
 [![nokia6.1](https://img.shields.io/badge/NOKIA%206%202018-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-1)<br>
-[![a2015](https://img.shields.io/badge/ZTE%20Axon%20Elite-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![c2016](https://img.shields.io/badge/ZTE%20Axon%20Max-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![a2015](https://img.shields.io/badge/ZTE%20Axon%20Elite-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![daling](https://img.shields.io/badge/Protruly%20Darling%20D7-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![ASUS](https://img.shields.io/badge/ASUS%20Zenfone%205-3ddc84?style=flat-square&logo=asus&logoColor=ffffff)](#)
 [![zoom](https://img.shields.io/badge/ASUS%20Zenfone%20Zoom-3ddc84?style=flat-square&logo=asus&logoColor=ffffff)](#)<br>
