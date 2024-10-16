@@ -66,6 +66,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy S7 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S8](https://img.shields.io/badge/Samsung%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa)
 [![Samsung Galaxy S9+](https://img.shields.io/badge/Samsung%20Galaxy%20S9+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/business/smartphones/galaxy-s9/)
+[![Samsung Galaxy S10+](https://img.shields.io/badge/Samsung%20Galaxy%20S10+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S20+](https://img.shields.io/badge/Samsung%20Galaxy%20S20+%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9860ZADTGY)
 [![Samsung Galaxy S20 Ultra 5G](https://img.shields.io/badge/Samsung%20Galaxy%20S20%20Ultra%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9880ZAGTGY)
 [![Samsung Galaxy S24 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20S24%20Ultra-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com.cn/smartphones/galaxy-s24-ultra)<br>
@@ -85,7 +86,6 @@ You can click the Preview link to take a look at your changes.
 [![Samsung SM-W2015](https://img.shields.io/badge/Samsung%20SM_W2015-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 <br>
 
-[![PE-CL00](https://img.shields.io/badge/HUAWEI%20HONOR%206%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](http://sale.vmall.com/h6plus.html)
 [![HONOR_MAGIC](https://img.shields.io/badge/HUAWEI%20HONOR%20Magic-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HONOR8](https://img.shields.io/badge/HUAWEI%20HONOR%208-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI_MATE_7](https://img.shields.io/badge/HUAWEI%20Mate%207%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/mate7.html)
@@ -108,7 +108,6 @@ You can click the Preview link to take a look at your changes.
 [![Sony Xperia 5II](https://img.shields.io/badge/Sony_Xperia_5_II-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)<br>
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z9](https://img.shields.io/badge/Nubia_Z9-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![z9max](https://img.shields.io/badge/Nubia_Z9_Max-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z11](https://img.shields.io/badge/Nubia_Z11-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![magic](https://img.shields.io/badge/HTC%20Magic-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
