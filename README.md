@@ -100,7 +100,6 @@ You can click the Preview link to take a look at your changes.
 [![HUAWEI P9 Plus](https://img.shields.io/badge/HUAWEI%20P9%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus%20eMMC-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
 [![HUAWEI P20 Pro](https://img.shields.io/badge/HUAWEI%20P20%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p20-pro)
-[![HUAWEI nova](https://img.shields.io/badge/HUAWEI%20nova-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI nova2s](https://img.shields.io/badge/HUAWEI%20nova2s-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)<br>
 
 [![Sony Ericsson Xperia neo V](https://img.shields.io/badge/Sony_Ericsson_Xperia_neo_V-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)
@@ -149,7 +148,6 @@ You can click the Preview link to take a look at your changes.
 [![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
 [![GIONEE](https://img.shields.io/badge/GIONEE%20G13pro%20MAX-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![xgl](https://img.shields.io/badge/小格雷%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.sohu.com/a/128143373_624335)<br>
-[![COOLPADmax](https://img.shields.io/badge/coolpad%20锋尚MAX-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![COOLPAD1c](https://img.shields.io/badge/coolpad%20cool1c-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![cool20](https://img.shields.io/badge/coolpad%20cool%2020-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![mx4](https://img.shields.io/badge/MEIZU%20MX4-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
