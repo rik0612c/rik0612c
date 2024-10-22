@@ -33,11 +33,11 @@ You can click the Preview link to take a look at your changes.
 [![Redmi 4](https://img.shields.io/badge/Redmi%204%20(8937)-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi Pro](https://img.shields.io/badge/Redmi%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmipro)
 [![Redmi Note 4X](https://img.shields.io/badge/Redmi%20Note%204X-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote4x)
-[![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)<br>
+[![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)
+[![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)<br>
 [![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://www.xiaomi.com/mi2)
 [![Xiaomi Mi 2S](https://img.shields.io/badge/Xiaomi%20Mi%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://p.www.xiaomi.com/zt/130406/params.html)
 [![Xiaomi Mi 3TD](https://img.shields.io/badge/Xiaomi%20Mi%203TD-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi3)
-[![Xiaomi Mi PAD](https://img.shields.io/badge/Xiaomi%20Mi%20Pad-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/08311d/index.html)
 [![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
 [![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
 [![Xiaomi Mi Note LTE](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/minote/specs)
@@ -131,6 +131,7 @@ You can click the Preview link to take a look at your changes.
 [![op5](https://img.shields.io/badge/OnePlus%205-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![op5T](https://img.shields.io/badge/OnePlus%205T-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
+[![rmx2200](https://img.shields.io/badge/realme%20V3-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
 [![Motorola n6](https://img.shields.io/badge/Motorola%20Nexus%206-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 [![Moto X Pro](https://img.shields.io/badge/Moto%20X%20Pro-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
@@ -139,7 +140,6 @@ You can click the Preview link to take a look at your changes.
 [![Moto M](https://img.shields.io/badge/Moto%20M-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
 
 [![Lenovo Vibe P1](https://img.shields.io/badge/Lenovo%20Vibe%20P1-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
-[![Lenovo Vibe Shot](https://img.shields.io/badge/Lenovo%20Vibe%20Shot-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![Lenovo K5](https://img.shields.io/badge/Lenovo%20K5-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![ZUK Z1](https://img.shields.io/badge/ZUK%20Z1-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![ZUK Z2](https://img.shields.io/badge/ZUK%20Z2-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
@@ -158,10 +158,8 @@ You can click the Preview link to take a look at your changes.
 [![PRO6P](https://img.shields.io/badge/MEIZU%20PRO6%20Plus-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO7S](https://img.shields.io/badge/MEIZU%20PRO7S-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO7H](https://img.shields.io/badge/MEIZU%20PRO7H-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![PRO7H](https://img.shields.io/badge/MEIZU%20PRO7H-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note5](https://img.shields.io/badge/MEIZU%20Note%205-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![note8](https://img.shields.io/badge/MEIZU%20Note%208-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![T1](https://img.shields.io/badge/SMARTISAN%20T1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/t1/#/overview)
 [![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)
 [![oscar](https://img.shields.io/badge/SMARTISAN%20U3-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/u3/overview)<br>
