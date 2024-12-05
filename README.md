@@ -103,9 +103,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Sony Ericsson Xperia neo V](https://img.shields.io/badge/Sony_Ericsson_Xperia_neo_V-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)
 [![Sony Xperia XZ Performance](https://img.shields.io/badge/Sony_Xperia_XZ_Performance-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)
-[![Sony Xperia 5II](https://img.shields.io/badge/Sony_Xperia_5_II-000000?style=flat-square&logo=sony&logoColor=ffffff)](#)<br>
 [![u950](https://img.shields.io/badge/ZTE%20U950-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![a2015](https://img.shields.io/badge/ZTE%20Axon%20Elite-00bffe?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z9](https://img.shields.io/badge/Nubia_Z9-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![z11](https://img.shields.io/badge/Nubia_Z11-ff3311?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![magic](https://img.shields.io/badge/HTC%20Magic-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
@@ -125,6 +123,7 @@ You can click the Preview link to take a look at your changes.
 [![a30](https://img.shields.io/badge/OPPO%20R11-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![r11](https://img.shields.io/badge/OPPO%20R11t-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![r11t](https://img.shields.io/badge/OPPO%20A30-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![RN5PP](https://img.shields.io/badge/OPPO%20Reno%205%20Pro+-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![FX3P](https://img.shields.io/badge/OPPO%20Find%20X3%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![a0001](https://img.shields.io/badge/OnePlus%20One-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a2001](https://img.shields.io/badge/OnePlus%202-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
@@ -145,7 +144,6 @@ You can click the Preview link to take a look at your changes.
 [![Lemeng K12 Pro](https://img.shields.io/badge/Lemeng%20K12%20Pro-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)<br>
 
 [![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
-[![vetas](https://img.shields.io/badge/VETAS%20V5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![xgl](https://img.shields.io/badge/小格雷%20S1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.sohu.com/a/128143373_624335)<br>
 [![COOLPAD1c](https://img.shields.io/badge/coolpad%20cool1c-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![cool20](https://img.shields.io/badge/coolpad%20cool%2020-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
