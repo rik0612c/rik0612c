@@ -90,7 +90,6 @@ You can click the Preview link to take a look at your changes.
 [![HONOR V8](https://img.shields.io/badge/HUAWEI%20HONOR%20V8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HONOR8](https://img.shields.io/badge/HUAWEI%20HONOR%208-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HONORN8](https://img.shields.io/badge/HUAWEI%20HONOR%20Note8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)<br>
-[![HUAWEI_MATE_S](https://img.shields.io/badge/HUAWEI%20Mate%20S%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/ms.html)
 [![HUAWEI_MATE_8](https://img.shields.io/badge/HUAWEI%20Mate%208%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/mate8.html)
 [![HUAWEI_MATE_9](https://img.shields.io/badge/HUAWEI%20Mate%209-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI_MATE_9P](https://img.shields.io/badge/HUAWEI%20Mate%209%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
@@ -112,7 +111,6 @@ You can click the Preview link to take a look at your changes.
 [![e8](https://img.shields.io/badge/HTC%20One%20E8-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![m8si](https://img.shields.io/badge/HTC%20One%20M8%20si-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![uu](https://img.shields.io/badge/HTC%20U%20Ultra-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
-[![vu3](https://img.shields.io/badge/LG%20Vu3-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5x](https://img.shields.io/badge/LG%20Nexus_5X-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![G6](https://img.shields.io/badge/LG%20G6%20ThinQ-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
