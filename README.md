@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 ## 📱 Android Phones in use
 <details><summary>Click to see</summary>
 
-[![Redmi 1 TD](https://img.shields.io/badge/Redmi%201%20CMCC-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi Note 3](https://img.shields.io/badge/Redmi%20Note%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/note3)
 [![Redmi 3S](https://img.shields.io/badge/Redmi%203S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3s)
@@ -66,7 +65,6 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy S8](https://img.shields.io/badge/Samsung%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa)
 [![Samsung Galaxy S9+](https://img.shields.io/badge/Samsung%20Galaxy%20S9+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/business/smartphones/galaxy-s9/)
 [![Samsung Galaxy S10+](https://img.shields.io/badge/Samsung%20Galaxy%20S10+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy S20+](https://img.shields.io/badge/Samsung%20Galaxy%20S20+%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9860ZADTGY)
 [![Samsung Galaxy S20 Ultra 5G](https://img.shields.io/badge/Samsung%20Galaxy%20S20%20Ultra%205G-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-G9880ZAGTGY)
 [![Samsung Galaxy S24 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20S24%20Ultra-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com.cn/smartphones/galaxy-s24-ultra)<br>
 [![Samsung Galaxy Note](https://img.shields.io/badge/Samsung%20Galaxy%20Note-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
@@ -120,8 +118,8 @@ You can click the Preview link to take a look at your changes.
 [![find7](https://img.shields.io/badge/OPPO%20Find%207a-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![n3](https://img.shields.io/badge/OPPO%20N3-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a30](https://img.shields.io/badge/OPPO%20R11-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![r11](https://img.shields.io/badge/OPPO%20R11t-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![r11t](https://img.shields.io/badge/OPPO%20A30-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![RN4P](https://img.shields.io/badge/OPPO%20Reno%204%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RN5PP](https://img.shields.io/badge/OPPO%20Reno%205%20Pro+-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![FX3P](https://img.shields.io/badge/OPPO%20Find%20X3%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![a0001](https://img.shields.io/badge/OnePlus%20One-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
