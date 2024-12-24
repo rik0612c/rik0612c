@@ -117,8 +117,7 @@ You can click the Preview link to take a look at your changes.
 [![xplay6](https://img.shields.io/badge/vivo%20Xplay6-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/xplay6/)<br>
 [![find7](https://img.shields.io/badge/OPPO%20Find%207a-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![n3](https://img.shields.io/badge/OPPO%20N3-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![a30](https://img.shields.io/badge/OPPO%20R11-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![r11t](https://img.shields.io/badge/OPPO%20A30-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![a30](https://img.shields.io/badge/OPPO%20A30-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RN4P](https://img.shields.io/badge/OPPO%20Reno%204%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RN5PP](https://img.shields.io/badge/OPPO%20Reno%205%20Pro+-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![FX3P](https://img.shields.io/badge/OPPO%20Find%20X3%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
@@ -149,7 +148,6 @@ You can click the Preview link to take a look at your changes.
 [![PRO6](https://img.shields.io/badge/MEIZU%20PRO6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO6P](https://img.shields.io/badge/MEIZU%20PRO6%20Plus-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO7S](https://img.shields.io/badge/MEIZU%20PRO7S-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![PRO7H](https://img.shields.io/badge/MEIZU%20PRO7H-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)<br>
 [![nokia5.1plus](https://img.shields.io/badge/NOKIA%20X5-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](#)
