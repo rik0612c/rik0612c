@@ -94,7 +94,6 @@ You can click the Preview link to take a look at your changes.
 [![HUAWEI_MATE_10](https://img.shields.io/badge/HUAWEI%20Mate%2010-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI_MATE_10P](https://img.shields.io/badge/HUAWEI%20Mate%2010%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI_MATE_20proud](https://img.shields.io/badge/HUAWEI%20Mate%2020%20Pro(UD)-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)<br>
-[![HUAWEI P8](https://img.shields.io/badge/HUAWEI%20P8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P8L](https://img.shields.io/badge/HUAWEI%20P8%20Lite-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P9 Plus](https://img.shields.io/badge/HUAWEI%20P9%20Plus-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI P10 Plus eMMC](https://img.shields.io/badge/HUAWEI%20P10%20Plus(eMMC)-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://consumer.huawei.com/cn/support/phones/p10-plus.html)
@@ -112,8 +111,7 @@ You can click the Preview link to take a look at your changes.
 [![uu](https://img.shields.io/badge/HTC%20U%20Ultra-8cc751?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![n5](https://img.shields.io/badge/LG%20Nexus_5-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
 [![n5x](https://img.shields.io/badge/LG%20Nexus_5X-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
-[![G6](https://img.shields.io/badge/LG%20G6%20ThinQ-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)
-[![stylo](https://img.shields.io/badge/LG%20Stylo%202%20Plus-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)<br>
+[![G6](https://img.shields.io/badge/LG%20G6%20ThinQ-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)<br>
 [![x5max](https://img.shields.io/badge/vivo%20X5_Max-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x5max/)
 [![xplay6](https://img.shields.io/badge/vivo%20Xplay6-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/xplay6/)
 [![NEX3](https://img.shields.io/badge/vivo%20NEX3-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/nex3/)<br>
@@ -127,7 +125,8 @@ You can click the Preview link to take a look at your changes.
 [![a0001](https://img.shields.io/badge/OnePlus%20One-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a2001](https://img.shields.io/badge/OnePlus%202-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![op3](https://img.shields.io/badge/OnePlus%203-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![op5T](https://img.shields.io/badge/OnePlus%205T-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![op5T](https://img.shields.io/badge/OnePlus%205T-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![op7P](https://img.shields.io/badge/OnePlus%207%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![rmx1901](https://img.shields.io/badge/realme%20X-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 [![rmx2200](https://img.shields.io/badge/realme%20V3-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 [![rmx3800](https://img.shields.io/badge/realme%20GT6-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
