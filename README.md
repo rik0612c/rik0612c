@@ -47,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi MIX 3](https://img.shields.io/badge/Xiaomi%20MIX%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix3)
 [![Xiaomi Mi CC9e](https://img.shields.io/badge/Xiaomi%20Mi%20CC9e-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![Xiaomi Mi CC9P](https://img.shields.io/badge/Xiaomi%20Mi%20CC9%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 10](https://img.shields.io/badge/Xiaomi%20Mi%2010-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)
 [![Xiaomi MI CIVI](https://img.shields.io/badge/Xiaomi%20Civi-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomicivi)
@@ -75,8 +76,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy Note 5](https://img.shields.io/badge/Samsung%20Galaxy%20Note%205-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy Note FE](https://img.shields.io/badge/Samsung%20Galaxy%20Note%20FE-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/ph/smartphones/galaxy-note/galaxy-note-fan-edition-black-64gb-sm-n935fzkdxtc/)
 [![Samsung Galaxy Note 8 Exynos](https://img.shields.io/badge/Samsung%20Galaxy%20Note%208-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note9](https://img.shields.io/badge/Samsung%20Galaxy%20Note9-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy Note20 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20Note20%20Ultra-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk_en/support/model/SM-N9860ZKGTGY/)<br>
+[![Samsung Galaxy Note9](https://img.shields.io/badge/Samsung%20Galaxy%20Note9-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
 [![Samsung Galaxy C5](https://img.shields.io/badge/Samsung%20Galaxy%20C5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy C7 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20C7%20_Pro-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy C8](https://img.shields.io/badge/Samsung%20Galaxy%20C8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
