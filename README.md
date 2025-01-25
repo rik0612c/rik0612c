@@ -32,8 +32,6 @@ You can click the Preview link to take a look at your changes.
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)
 [![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)<br>
 [![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://www.xiaomi.com/mi2)
-[![Xiaomi Mi 2S](https://img.shields.io/badge/Xiaomi%20Mi%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://p.www.xiaomi.com/zt/130406/params.html)
-[![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
 [![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
 [![Xiaomi Mi Note LTE](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/minote/specs)
 [![Xiaomi Mi Note Pro](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://hd.mi.com/z/07311e/index.html)<br>
