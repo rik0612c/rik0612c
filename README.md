@@ -38,17 +38,18 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi MAX](https://img.shields.io/badge/Xiaomi%20Mi%20MAX-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mimax)
 [![Xiaomi Mi 5s](https://img.shields.io/badge/Xiaomi%20Mi%205s-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi5s)
 [![Xiaomi Mi 5sP](https://img.shields.io/badge/Xiaomi%20Mi%205s%20Plus-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![Xiaomi Mi MIX](https://img.shields.io/badge/Xiaomi%20Mi%20MIX-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 5c](https://img.shields.io/badge/Xiaomi%20Mi%205c-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi5c)
 [![Xiaomi Mi 6](https://img.shields.io/badge/Xiaomi%20Mi%206-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi6)
-[![Xiaomi MIX 2S](https://img.shields.io/badge/Xiaomi%20MIX%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
+[![Xiaomi Mi MIX 2S](https://img.shields.io/badge/Xiaomi%20Mi%20MIX%202S-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
-[![Xiaomi MIX 3](https://img.shields.io/badge/Xiaomi%20MIX%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix3)
+[![Xiaomi Mi MIX 3](https://img.shields.io/badge/Xiaomi%20Mi%20MIX%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix3)
 [![Xiaomi Mi CC9e](https://img.shields.io/badge/Xiaomi%20Mi%20CC9e-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi CC9P](https://img.shields.io/badge/Xiaomi%20Mi%20CC9%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 10](https://img.shields.io/badge/Xiaomi%20Mi%2010-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)
-[![Xiaomi MI CIVI](https://img.shields.io/badge/Xiaomi%20Civi-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomicivi)
-[![Xiaomi MI CIVI](https://img.shields.io/badge/Xiaomi%20Civi-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomicivi)<br>
+[![Xiaomi CIVI](https://img.shields.io/badge/Xiaomi%20Civi-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomicivi)
+[![Xiaomi CIVI](https://img.shields.io/badge/Xiaomi%20Civi-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomicivi)<br>
 
 [![Samsung GT-S7898](https://img.shields.io/badge/Samsung%20GT_S7898-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/GT-S7898RWACHM/)
 [![Samsung SM-G3568V](https://img.shields.io/badge/Samsung%20SM_G3568V-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G3568HAVCHM/)
@@ -84,7 +85,6 @@ You can click the Preview link to take a look at your changes.
 [![HONOR V8](https://img.shields.io/badge/HUAWEI%20HONOR%20V8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HONOR8](https://img.shields.io/badge/HUAWEI%20HONOR%208-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HONORN8](https://img.shields.io/badge/HUAWEI%20HONOR%20Note8-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)<br>
-[![HUAWEI_MATE_8](https://img.shields.io/badge/HUAWEI%20Mate%208%20-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](https://sale.vmall.com/mate8.html)
 [![HUAWEI_MATE_9](https://img.shields.io/badge/HUAWEI%20Mate%209-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI_MATE_9P](https://img.shields.io/badge/HUAWEI%20Mate%209%20Pro-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
 [![HUAWEI_MATE_10](https://img.shields.io/badge/HUAWEI%20Mate%2010-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
