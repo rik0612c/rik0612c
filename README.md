@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
 [![Xiaomi Mi Note LTE](https://img.shields.io/badge/Xiaomi%20Mi%20NOTE%20LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/minote/specs)<br>
 [![Xiaomi Mi MAX](https://img.shields.io/badge/Xiaomi%20Mi%20MAX-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mimax)
+[![Xiaomi Mi MAX](https://img.shields.io/badge/Xiaomi%20Mi%20MAX-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mimax)
 [![Xiaomi Mi MAX2](https://img.shields.io/badge/Xiaomi%20Mi%20MAX%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/max2)
 [![Xiaomi Mi 5s](https://img.shields.io/badge/Xiaomi%20Mi%205s-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi5s)
 [![Xiaomi Mi 5sP](https://img.shields.io/badge/Xiaomi%20Mi%205s%20Plus-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
@@ -142,7 +143,6 @@ You can click the Preview link to take a look at your changes.
 [![mx4](https://img.shields.io/badge/MEIZU%20MX4-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![mx4pro](https://img.shields.io/badge/MEIZU%20MX4%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO5](https://img.shields.io/badge/MEIZU%20PRO5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![PRO6](https://img.shields.io/badge/MEIZU%20PRO6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO6P](https://img.shields.io/badge/MEIZU%20PRO6%20Plus-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO7S](https://img.shields.io/badge/MEIZU%20PRO7S-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
