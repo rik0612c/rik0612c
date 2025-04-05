@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-[![Redmi 5](https://img.shields.io/badge/Redmi%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmi5)
 [![Redmi Note 7](https://img.shields.io/badge/Redmi%20Note%207-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote4x)
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)
 [![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)<br>
@@ -61,7 +60,8 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy S5](https://img.shields.io/badge/Samsung%20Galaxy%20S5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9008ZBACHM/)
 [![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
 [![Samsung Galaxy S7](https://img.shields.io/badge/Samsung%20Galaxy%20S7-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung Galaxy S7 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy S7 EdgeS](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Edge(S820)-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
+[![Samsung Galaxy S7 EdgeE](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Edge(E8895)-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S7A](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Active-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S8](https://img.shields.io/badge/Samsung%20Galaxy%20S8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/us/mobile/phones/galaxy-s/galaxy-s8-64gb--unlocked--sm-g950uzkaxaa)
 [![Samsung Galaxy S9+](https://img.shields.io/badge/Samsung%20Galaxy%20S9+-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/sec/business/smartphones/galaxy-s9/)
