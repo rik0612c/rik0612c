@@ -79,8 +79,6 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy C7 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20C7%20_Pro-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy C8](https://img.shields.io/badge/Samsung%20Galaxy%20C8-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy C9 Pro](https://img.shields.io/badge/Samsung%20Galaxy%20C9%20Pro-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)<br>
-[![Samsung SM-W2014](https://img.shields.io/badge/Samsung%20SM_W2014-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
-[![Samsung SM-W2015](https://img.shields.io/badge/Samsung%20SM_W2015-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 <br>
 
 [![HONOR_MAGIC](https://img.shields.io/badge/HUAWEI%20HONOR%20Magic-CE0E2D?style=flat-square&logo=HUAWEI&logoColor=ffffff)](#)
