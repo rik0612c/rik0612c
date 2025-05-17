@@ -139,7 +139,6 @@ You can click the Preview link to take a look at your changes.
 [![PRO5](https://img.shields.io/badge/MEIZU%20PRO5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO6P](https://img.shields.io/badge/MEIZU%20PRO6%20Plus-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO7S](https://img.shields.io/badge/MEIZU%20PRO7S-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![S6](https://img.shields.io/badge/MEIZU%20S6-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)<br>
 [![nokia5.1plus](https://img.shields.io/badge/NOKIA%20X5-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](#)
