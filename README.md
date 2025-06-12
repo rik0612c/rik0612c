@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-[![Redmi Note 7](https://img.shields.io/badge/Redmi%20Note%207-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redminote4x)
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)
 [![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik30-5g)<br>
 [![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://www.xiaomi.com/mi2)
@@ -45,7 +44,6 @@ You can click the Preview link to take a look at your changes.
 [![Xiaomi Mi 8](https://img.shields.io/badge/Xiaomi%20Mi%208-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
 [![Xiaomi Mi MIX 3](https://img.shields.io/badge/Xiaomi%20Mi%20MIX%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 9](https://img.shields.io/badge/Xiaomi%20Mi%209-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tw/mi8)
-[![Xiaomi Mi CC9e](https://img.shields.io/badge/Xiaomi%20Mi%20CC9e-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi CC9P](https://img.shields.io/badge/Xiaomi%20Mi%20CC9%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi Mi 10](https://img.shields.io/badge/Xiaomi%20Mi%2010-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Xiaomi MIX 4](https://img.shields.io/badge/Xiaomi%20MIX%204-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mix4)
@@ -139,7 +137,8 @@ You can click the Preview link to take a look at your changes.
 [![PRO5](https://img.shields.io/badge/MEIZU%20PRO5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO6P](https://img.shields.io/badge/MEIZU%20PRO6%20Plus-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO7S](https://img.shields.io/badge/MEIZU%20PRO7S-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
+[![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![note16](https://img.shields.io/badge/MEIZU%20Note%2016-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)<br>
 [![nokia5.1plus](https://img.shields.io/badge/NOKIA%20X5-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](#)
 [![nokia6.1](https://img.shields.io/badge/NOKIA%206%202018-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-1)<br>
