@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💻 Working environment
-[![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)<br>
+[![Android 16](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)<br>
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)<br>
 [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/22.04/)<br>
 
@@ -108,9 +108,9 @@ You can click the Preview link to take a look at your changes.
 [![n5x](https://img.shields.io/badge/LG%20Nexus_5X-C70851?style=flat-square&logo=lg&logoColor=ffffff)](#)<br>
 [![x5max](https://img.shields.io/badge/vivo%20X5_Max-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x5max/)
 [![xplay6](https://img.shields.io/badge/vivo%20Xplay6-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/xplay6/)
-[![NEX3](https://img.shields.io/badge/vivo%20NEX3-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/nex3/)<br>
+[![NEX3](https://img.shields.io/badge/vivo%20NEX3-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/nex3/)
+[![X50P](https://img.shields.io/badge/vivo%20X50%20Pro-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x50pro/)<br>
 [![N1](https://img.shields.io/badge/OPPO%20N1-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![find7](https://img.shields.io/badge/OPPO%20Find%207a-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a30](https://img.shields.io/badge/OPPO%20A30-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RNZ](https://img.shields.io/badge/OPPO%20Reno%20Z-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RN10X](https://img.shields.io/badge/OPPO%20Reno%2010x%20Zoom-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
@@ -139,7 +139,6 @@ You can click the Preview link to take a look at your changes.
 [![PRO7S](https://img.shields.io/badge/MEIZU%20PRO7S-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note6](https://img.shields.io/badge/MEIZU%20Note%206-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note16](https://img.shields.io/badge/MEIZU%20Note%2016-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
-[![u1](https://img.shields.io/badge/SMARTISAN%20U1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.smartisan.com/jianguo/#/overview)<br>
 [![nokia5.1plus](https://img.shields.io/badge/NOKIA%20X5-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](#)
 [![nokia6.1](https://img.shields.io/badge/NOKIA%206%202018-005AFF?style=flat-square&logo=nokia&logoColor=ffffff)](https://www.nokia.com/phones/en_int/nokia-6-1)<br>
 [![zoom](https://img.shields.io/badge/ASUS%20Zenfone%20Zoom-3ddc84?style=flat-square&logo=asus&logoColor=ffffff)](#)<br>
