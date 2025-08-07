@@ -112,7 +112,6 @@ You can click the Preview link to take a look at your changes.
 [![X50P](https://img.shields.io/badge/vivo%20X50%20Pro-0072b8?style=flat-square&logo=android&logoColor=ffffff)](https://www.vivo.com.cn/vivo/x50pro/)<br>
 [![N1](https://img.shields.io/badge/OPPO%20N1-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![a30](https://img.shields.io/badge/OPPO%20A30-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
-[![RNZ](https://img.shields.io/badge/OPPO%20Reno%20Z-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RN10X](https://img.shields.io/badge/OPPO%20Reno%2010x%20Zoom-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RN4P](https://img.shields.io/badge/OPPO%20Reno%204%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![RN5P](https://img.shields.io/badge/OPPO%20Reno%205%20Pro-1ea366?style=flat-square&logo=android&logoColor=ffffff)](#)
