@@ -121,7 +121,6 @@ You can click the Preview link to take a look at your changes.
 [![rmx3800](https://img.shields.io/badge/realme%20GT6-FFC916?style=flat-square&logo=android&logoColor=000000)](#)
 
 [![Motorola n6](https://img.shields.io/badge/Motorola%20Nexus%206-5B92FA?style=flat-square&logo=motorola&logoColor=ffffff)](#)
-[![ZUK Z1](https://img.shields.io/badge/ZUK%20Z1-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![Lemeng K12](https://img.shields.io/badge/Lemeng%20K12-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](#)<br>
 
 [![Pixel 6](https://img.shields.io/badge/Pixel%206-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6?hl=en-US)<br>
