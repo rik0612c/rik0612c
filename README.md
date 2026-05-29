@@ -24,9 +24,6 @@ You can click the Preview link to take a look at your changes.
 ## 📱 Android Phones in use
 <details><summary>Click to see</summary>
 
-[![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-[![Redmi Note 4G](https://img.shields.io/badge/Redmi%20Note%204G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
-[![Redmi Note 5](https://img.shields.io/badge/Redmi%20Note%205-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)
 [![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](#)<br>
 [![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://www.xiaomi.com/mi2)
 [![Xiaomi Mi 4LTE](https://img.shields.io/badge/Xiaomi%20Mi%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/mi4)
@@ -52,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 [![Samsung Galaxy S III](https://img.shields.io/badge/Samsung%20Galaxy%20S%20III-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk/support/model/GT-I9300RWDTGY/)
 [![Samsung Galaxy S4](https://img.shields.io/badge/Samsung%20Galaxy%20S4-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/hk/support/model/GT-I9300RWDTGY/)
 [![Samsung Galaxy S5](https://img.shields.io/badge/Samsung%20Galaxy%20S5-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9008ZBACHM/)
-[![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
+[![Samsung Galaxy S6](https://img.shields.io/badge/Samsung%20Galaxy%20S6-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S6 Edge](https://img.shields.io/badge/Samsung%20Galaxy%20S6%20Edge-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](https://www.samsung.com/cn/support/model/SM-G9250ZWATGY/)
 [![Samsung Galaxy S7](https://img.shields.io/badge/Samsung%20Galaxy%20S7-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
 [![Samsung Galaxy S7 EdgeS](https://img.shields.io/badge/Samsung%20Galaxy%20S7%20Edge(S820)-1428a0?style=flat-square&logo=Samsung&logoColor=ffffff)](#)
@@ -124,6 +121,7 @@ You can click the Preview link to take a look at your changes.
 [![mx4pro](https://img.shields.io/badge/MEIZU%20MX4%20Pro-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO5](https://img.shields.io/badge/MEIZU%20PRO5-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![PRO6P](https://img.shields.io/badge/MEIZU%20PRO6%20Plus-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![16s](https://img.shields.io/badge/MEIZU%2016s-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![note16](https://img.shields.io/badge/MEIZU%20Note%2016-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)<br>
 [![zoom](https://img.shields.io/badge/ASUS%20Zenfone%20Zoom-3ddc84?style=flat-square&logo=asus&logoColor=ffffff)](#)<br>
 </details>
